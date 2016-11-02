@@ -40,7 +40,7 @@ I believe in destiny. The future is destined and unchangeable.
 `,
 `
 Statement #4:
-The Earth has already been visited by alien species.
+The Earth has already been visited by extraterrestrial beings.
 `,
 `
 Statement #5:
